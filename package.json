@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/miyannishar/storeapi/issues"
   },
-  "homepage": "https://github.com/miyannishar/storeapi#readme"
+  "homepage": "https://github.com/miyannishar/storeapi#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20"
+  }
 }
